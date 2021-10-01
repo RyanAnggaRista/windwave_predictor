@@ -1,0 +1,127 @@
+[20-Aug-2021 15:43:11 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:43:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:43:15 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:43:15 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:43:23 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:43:23 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:44:11 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:44:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:45:21 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:45:21 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:45:32 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/admin.php on line 2
+[20-Aug-2021 15:45:32 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/admin.php on line 2
+[20-Aug-2021 15:46:04 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:46:04 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:50:31 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/admin.php on line 2
+[20-Aug-2021 15:50:31 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/admin.php on line 2
+[20-Aug-2021 15:55:55 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:55:55 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:55:59 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 15:55:59 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:08:49 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:08:49 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:10:56 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:10:56 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:09 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:09 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:10 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:10 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:11 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:12 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:12 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:12 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:12 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:13 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:13 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:13 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:11:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/mapsnya.php on line 2
+[20-Aug-2021 16:18:11 Asia/Jakarta] PHP Warning:  require(..\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/content/admin.php on line 2
+[20-Aug-2021 16:18:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '..\koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/content/admin.php on line 2
+[20-Aug-2021 16:40:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home/fisj6422/public_html/webgis/koneksi.php:14
+Stack trace:
+#0 /home/fisj6422/public_html/webgis/content/maps.php(2): require()
+#1 {main}
+  thrown in /home/fisj6422/public_html/webgis/koneksi.php on line 14
+[20-Aug-2021 16:41:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home/fisj6422/public_html/webgis/koneksi.php:14
+Stack trace:
+#0 /home/fisj6422/public_html/webgis/content/maps.php(2): require()
+#1 {main}
+  thrown in /home/fisj6422/public_html/webgis/koneksi.php on line 14
+[20-Aug-2021 17:02:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home/fisj6422/public_html/webgis/koneksi.php:14
+Stack trace:
+#0 /home/fisj6422/public_html/webgis/content/mapsnya.php(2): require()
+#1 {main}
+  thrown in /home/fisj6422/public_html/webgis/koneksi.php on line 14
+[20-Aug-2021 17:02:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home/fisj6422/public_html/webgis/koneksi.php:14
+Stack trace:
+#0 /home/fisj6422/public_html/webgis/content/mapsnya.php(2): require()
+#1 {main}
+  thrown in /home/fisj6422/public_html/webgis/koneksi.php on line 14
+[20-Aug-2021 17:02:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home/fisj6422/public_html/webgis/koneksi.php:14
+Stack trace:
+#0 /home/fisj6422/public_html/webgis/content/admin.php(2): require()
+#1 {main}
+  thrown in /home/fisj6422/public_html/webgis/koneksi.php on line 14
+[01-Sep-2021 01:30:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:30:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:30:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:30:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:30:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:34:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:34:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:34:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 158
+[01-Sep-2021 01:35:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 162
+[01-Sep-2021 01:35:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 153
+[01-Sep-2021 01:35:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 153
+[01-Sep-2021 01:36:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 153
+[01-Sep-2021 01:36:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 153
+[01-Sep-2021 01:37:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function radians() in /home/prok6648/public_html/windwavepredictor/content/admin.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/prok6648/public_html/windwavepredictor/content/admin.php on line 153
