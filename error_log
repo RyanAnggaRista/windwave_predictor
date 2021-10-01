@@ -1,0 +1,396 @@
+[20-Aug-2021 15:22:13 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 15:22:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:24:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:27:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:28:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:28:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:30:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:30:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:33:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/fisj6422/public_html/webgis/koneksi.php:14
+Stack trace:
+#0 /home/fisj6422/public_html/webgis/index.php(137): include()
+#1 {main}
+  thrown in /home/fisj6422/public_html/webgis/koneksi.php on line 14
+[20-Aug-2021 15:34:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:104) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:34:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:104) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:34:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:104) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:34:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:104) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:35:52 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:36:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:36:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:39:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 135
+[20-Aug-2021 15:41:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 134
+[20-Aug-2021 15:41:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 134
+[20-Aug-2021 15:50:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:52:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:53:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:55:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 15:59:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 15:59:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:00:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:04:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:04:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:04:52 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:05:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:05:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:07:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:07:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:07:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:08:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:13:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:13:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:14:19 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:14:27 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:14:37 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:14:46 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:14:51 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:51 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:14:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:15:11 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:15:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:15:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:15:22 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:15:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:15:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:15:28 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:15:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:15:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:23:27 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:23:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:23:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:25:38 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:25:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:25:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:25:48 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:25:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:25:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:26:09 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:26:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:26:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:26:16 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:26:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:26:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:26:21 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:26:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:26:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:28:37 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:28:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:28:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:30:27 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:30:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:30:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:30:31 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:30:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:30:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:35:21 Asia/Jakarta] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:35:30 Asia/Jakarta] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:35:38 Asia/Jakarta] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:35:44 Asia/Jakarta] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:35:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:39:52 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:39:52 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:39:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:41:52 Asia/Jakarta] PHP Warning:  include(\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:41:52 Asia/Jakarta] PHP Warning:  include(): Failed opening '\koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:41:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:42:00 Asia/Jakarta] PHP Warning:  include(\koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:42:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '\koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:42:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:43:03 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:43:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:43:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:43:13 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:43:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:43:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:46:58 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:46:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:46:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:47:41 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:47:41 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:47:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:48:34 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:48:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:48:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:49:30 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:49:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:49:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:49:34 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:49:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:49:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:51:21 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:51:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 16:51:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:52:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:52:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:53:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fisj6422/public_html/webgis/index.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 16:54:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:54:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 16:54:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 16:54:47 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 16:58:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 144
+[20-Aug-2021 16:59:11 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 16:59:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 16:59:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 16:59:11 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 16:59:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 16:59:16 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 16:59:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 16:59:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 16:59:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 16:59:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 17:02:29 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:02:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:02:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 17:02:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:02:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 17:04:27 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:04:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:04:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 17:04:27 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:04:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 17:05:03 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 17:05:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 137
+[20-Aug-2021 17:05:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fisj6422/public_html/webgis/index.php on line 139
+[20-Aug-2021 17:05:03 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 17:05:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 17:06:46 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:06:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:06:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 17:06:46 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:06:46 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 17:06:49 Asia/Jakarta] PHP Warning:  include(/koneksi.php): failed to open stream: No such file or directory in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:06:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fisj6422/public_html/webgis/index.php on line 138
+[20-Aug-2021 17:06:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fisj6422/public_html/webgis/index.php on line 140
+[20-Aug-2021 17:06:49 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:06:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 17:10:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:10:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:10:47 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:11:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:13:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:13:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:14:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:14:54 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:18:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:18:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:18:46 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:18:54 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:19:05 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 17:33:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 17:33:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 143
+[20-Aug-2021 18:36:47 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 147
+[20-Aug-2021 18:38:05 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 147
+[20-Aug-2021 18:38:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 147
+[20-Aug-2021 18:39:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:4) in /home/fisj6422/public_html/webgis/index.php on line 147
+[20-Aug-2021 18:44:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 18:45:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 18:48:01 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:48:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:52:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/fisj6422/public_html/webgis/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 18:52:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/fisj6422/public_html/webgis/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 18:52:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/fisj6422/public_html/webgis/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/fisj6422/public_html/webgis/index.php on line 141
+[20-Aug-2021 18:53:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 18:53:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 18:53:22 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:53:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 18:53:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:55:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:55:07 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 18:55:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:59:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:59:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 18:59:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 18:59:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 19:00:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 19:00:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 19:00:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 19:01:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 19:04:22 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 19:04:28 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 146
+[20-Aug-2021 19:05:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:12:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:12:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:18:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 19:18:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:21:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 19:21:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 151
+[20-Aug-2021 19:21:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 19:21:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 19:22:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 19:22:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 151
+[20-Aug-2021 19:22:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 19:22:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 19:22:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 19:22:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 151
+[20-Aug-2021 19:22:46 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 145
+[20-Aug-2021 19:22:46 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 151
+[20-Aug-2021 19:23:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:23:47 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:23:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:25:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:26:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 147
+[20-Aug-2021 19:26:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:27:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 147
+[20-Aug-2021 19:28:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:28:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:29:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:29:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:29:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:30:22 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:30:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 149
+[20-Aug-2021 19:31:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:31:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:31:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:32:52 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:32:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:32:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:33:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 150
+[20-Aug-2021 19:33:51 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fisj6422/public_html/webgis/index.php:1) in /home/fisj6422/public_html/webgis/index.php on line 148
+[20-Aug-2021 22:50:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/prok6648/public_html/windwavepredictor/index.php on line 137
